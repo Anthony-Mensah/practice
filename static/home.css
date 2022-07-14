@@ -1,0 +1,16 @@
+#bg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)),
+    url("./images/goldtip.jpg");
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+}
+#companyName {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 60px;
+}
+#itemLink{
+  text-decoration: none;
+  color: black;
+
+}
